@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/OPTIMETA.png" alt="OPTIMETA — 3D neon-pink logo with white glow on a deep blue background" width="100%">
+<img src="" width="100%">
 
 # OPTIMETA
 
